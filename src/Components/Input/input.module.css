@@ -1,0 +1,6 @@
+.input {
+    width: calc(100% - 60px);
+    padding: 10px 20px;
+    margin: 30px;
+    font-size: 1.5em;
+}
