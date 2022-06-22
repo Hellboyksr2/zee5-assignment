@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zee5-assignment/static/css/main.95144099.css",
+    "main.js": "/zee5-assignment/static/js/main.784867af.js",
+    "static/js/787.ca9c8350.chunk.js": "/zee5-assignment/static/js/787.ca9c8350.chunk.js",
+    "index.html": "/zee5-assignment/index.html",
+    "main.95144099.css.map": "/zee5-assignment/static/css/main.95144099.css.map",
+    "main.784867af.js.map": "/zee5-assignment/static/js/main.784867af.js.map",
+    "787.ca9c8350.chunk.js.map": "/zee5-assignment/static/js/787.ca9c8350.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95144099.css",
+    "static/js/main.784867af.js"
+  ]
+}
